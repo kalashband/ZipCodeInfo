@@ -1,3 +1,13 @@
+#  Zip Code Information App - React
+
+Created a React application that allows users to enter a postal code and fetch information about that location
+
+- React based Project.
+- Enter you POSTAL code you'll get POSTAL location.
+- Display's City Name , State , Country , Latitude & Longitude of  Area comes under the postal code.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
