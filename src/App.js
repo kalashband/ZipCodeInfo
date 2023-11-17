@@ -63,7 +63,6 @@ const LocationInfo = () => {
         <input type="number" minLength="6" maxLength="6" value={postalCode} onChange={PostalCodeChanger} placeholder="Enter Postal Code" />
         <button onClick={fatchLocationInfo}>Search </button>
       </div>
-      {loader && <p><div class="lds-ring"><div></div><div></div><div></div><div></div></div></p>}
       {error && <p>{error}</p>}
       {locationData && (
         <div className='locationDetail'>
